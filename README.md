@@ -1,13 +1,13 @@
 # quantum_hash_project
-Prototype quantum hash function using parameterized circuits - includes entropy, collision, avalanche &amp; bit independence tests. Built with Qiskit.
+Prototype quantum hash function using parameterized circuits - with testing entropy, collision, avalanche &amp; bit independence tests. Built with Qiskit.
 
 # Mark-1: A Quantum Hash Function Prototype
 
 ## Overview
 
-Mark-1 is a prototype quantum hash function built using parameterized quantum circuits. It simulates a hash mechanism based on quantum circuit behavior, aiming to explore the feasibility of quantum-era cryptographic primitives.
+Mark-1 of a prototype quantum hash function built using parameterized quantum circuits. It simulates a hash mechanism based on quantum circuit behavior, aiming to explore the feasibility of quantum-era cryptographic primitives.
 
-Quantum hash functions may offer new cryptographic security models in the presence of quantum computing capabilities. This project demonstrates a first-step implementation that maps classical input data to quantum parameters, extracts measurement-based signatures, and ensures desirable hash properties such as high entropy and sensitivity to input changes.
+It's apparent for anyone with a little domain know-how as to how & why quantum hash functions may offer new cryptographic security models in the presence of quantum computing capabilities. This project demonstrates a first-step implementation that maps classical input data to quantum parameters, extracts measurement-based signatures, and ensures desirable hash properties such as high entropy and sensitivity to input changes.
 
 ## Features
 

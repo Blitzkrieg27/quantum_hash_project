@@ -114,7 +114,7 @@ If using this project in academic work, please cite as:
   author = Bhvyadhirr Bharadwaj,
   title = {Mark-1: A Quantum Hash Function Prototype},
   year = {2025},
-  howpublished = {\url{https://github.com/yourusername/quantum_hash_project}},
+  howpublished = {\url{https://github.com/Blitzkrieg27/quantum_hash_project}},
 }
 ```
 

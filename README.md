@@ -111,7 +111,7 @@ If using this project in academic work, please cite as:
 
 ```bibtex
 @misc{mark1_quantum_hash,
-  author = Bhvyadhirr Bharadwaj,
+  author = Bhavyadhirr V. Bharadwaj,
   title = {Mark-1: A Quantum Hash Function Prototype},
   year = {2025},
   howpublished = {\url{https://github.com/Blitzkrieg27/quantum_hash_project}},
